@@ -2,7 +2,7 @@
 
 # Descripción
 
-Solución a los ejercicios lógico-matemáticos de la prueba técnica.
+Solución a los ejercicios lógico-matemáticos y consulta SQL de la prueba técnica.
 
 # Instalación
 
@@ -20,6 +20,7 @@ npm test
 
 - src: contiene los ejercicios.
 - tests: contiene las pruebas unitarias.
+- sql: contiene la consulta SQL.
 
 ## Uso de IA
 
